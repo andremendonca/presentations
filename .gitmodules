@@ -1,0 +1,3 @@
+[submodule "inventories/scope_in_javascript"]
+	path = inventories/scope_in_javascript
+	url = git://github.com/andremendonca/scope_in_javascript.git
